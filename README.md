@@ -4,9 +4,13 @@ Hi 👋 My name is Alfan Ghinan R
 Software Engineer
 -----------------
 
-*   🌍  I'm based in Malang, Indonesia
-*   ✉️  You can contact me at [alfangr05@gmail.com](mailto:alfangr05@gmail.com)
-*   🚀  I'm currently working on [SmartSeller](http://smartseller.co.id)### Skills 
+* 🌍  I'm based in Malang, Indonesia
+* ✉️  You can contact me at [alfangr05@gmail.com](mailto:alfangr05@gmail.com)
+* 🚀  I'm currently working on [SmartSeller](http://smartseller.co.id)
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -22,4 +26,3 @@ Software Engineer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
-                    
