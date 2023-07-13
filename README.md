@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [alfangr05@gmail.com](mailto:alfangr05@gmail.com)
-* 🚀  I'm currently working on [Nanovest](https://esteh.id](https://www.nanovest.io/)
+* 🚀  I'm currently working on [Nanovest](https://www.nanovest.io/)
 
 ### Skills
 
